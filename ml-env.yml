@@ -1,0 +1,15 @@
+name: my_project_env
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - jupyterlab
+  - notebook
+  - tensorflow
